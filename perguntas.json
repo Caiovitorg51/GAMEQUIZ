@@ -1,20 +1,54 @@
 {
-    "questions": [
-      {
-        "question": "What is the capital of France?",
-        "options": ["Paris", "London", "Berlin", "Madrid", "Rome"],
-        "answer": "Paris"
-      },
-      {
-        "question": "Which planet is known as the Red Planet?",
-        "options": ["Earth", "Mars", "Jupiter", "Venus", "Saturn"],
-        "answer": "Mars"
-      },
-      {
-        "question": "Who wrote 'Hamlet'?",
-        "options": ["Shakespeare", "Hemingway", "Tolkien", "Dickens", "Poe"],
-        "answer": "Shakespeare"
-      }
-    ]
-  }
-  
+  "questions": [
+    {
+      "question": "Who is the main protagonist in 'Naruto'?",
+      "options": ["Naruto Uzumaki", "Sasuke Uchiha", "Sakura Haruno", "Kakashi Hatake"],
+      "answer": "Naruto Uzumaki"
+    },
+    {
+      "question": "In 'Dragon Ball Z', what is Goku's Saiyan name?",
+      "options": ["Vegeta", "Raditz", "Kakarot", "Bardock"],
+      "answer": "Kakarot"
+    },
+    {
+      "question": "Which anime features the Straw Hat Pirates?",
+      "options": ["Naruto", "One Piece", "Bleach", "Attack on Titan"],
+      "answer": "One Piece"
+    },
+    {
+      "question": "In 'Attack on Titan', who is the Armored Titan?",
+      "options": ["Eren Jaeger", "Reiner Braun", "Armin Arlert", "Levi Ackerman"],
+      "answer": "Reiner Braun"
+    },
+    {
+      "question": "What is the name of the school in 'My Hero Academia'?",
+      "options": ["UA High School", "Shiketsu High", "Honnouji Academy", "Karasuno High"],
+      "answer": "UA High School"
+    },
+    {
+      "question": "Which anime character wields the Zanpakuto named 'Zangetsu'?",
+      "options": ["Ichigo Kurosaki", "Rukia Kuchiki", "Renji Abarai", "Kenpachi Zaraki"],
+      "answer": "Ichigo Kurosaki"
+    },
+    {
+      "question": "In 'Fullmetal Alchemist', what is the name of Edward Elric's brother?",
+      "options": ["Roy Mustang", "Alphonse Elric", "Winry Rockbell", "Maes Hughes"],
+      "answer": "Alphonse Elric"
+    },
+    {
+      "question": "Which anime features the Death Note, a notebook that kills anyone whose name is written in it?",
+      "options": ["Tokyo Ghoul", "Death Note", "Psycho-Pass", "Erased"],
+      "answer": "Death Note"
+    },
+    {
+      "question": "In 'Sword Art Online', what is the name of the first virtual reality MMORPG the players are trapped in?",
+      "options": ["Gun Gale Online", "Alfheim Online", "Sword Art Online", "Underworld"],
+      "answer": "Sword Art Online"
+    },
+    {
+      "question": "What is the name of the alchemy technique used by Roy Mustang in 'Fullmetal Alchemist'?",
+      "options": ["Water Alchemy", "Wind Alchemy", "Fire Alchemy", "Earth Alchemy"],
+      "answer": "Fire Alchemy"
+    }
+  ]
+}
