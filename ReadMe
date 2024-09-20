@@ -1,0 +1,2 @@
+game.py = codigo onde os jogadores respondem até um deles acertar.
+quiz.py = codigo onde os jogadores respondem apenas uma vez por questão e pontos sào atribuidos por ordem de resposta.
