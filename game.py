@@ -104,7 +104,7 @@ if __name__ == "__main__":
     manager = multiprocessing.Manager()
     pontuacao = manager.dict({i: 0 for i in range(num_jogadores)})  # Inicializa a pontuação para cada jogador
     perguntas_respondidas_corretamente = manager.list([False] * len(perguntas))  # Controla se uma pergunta já foi respondida corretamente
-    respostas_certas = [pergunta['answer'] for pergunta in perguntas]  # Extrai as respostas corretas (usando "answer" agora)
+    respostas_certas = [pergunta['answer'] for pergunta in perguntas]  # Extrai as respostas corretas
 
     # Variável compartilhada para indicar se o jogo está ativo
     jogo_ativo = manager.Value('b', True)  # Usando 'b' para um valor booleano
