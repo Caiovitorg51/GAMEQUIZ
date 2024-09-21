@@ -33,7 +33,7 @@ Todos os dados do jogo são exibidos diretamente no terminal.
    ```
 3. Clone este repositório para um diretório local:
    ```bash
-   git clone https://github.com/Caiovitorg51/(https://github.com/Caiovitorg51/GAMEQUIZ.git)
+   git clone https://github.com/Caiovitorg51/GAMEQUIZ.git
    ```
 4. Abra o diretório do projeto em seu terminal.
 5. Execute o jogo com o comando:
