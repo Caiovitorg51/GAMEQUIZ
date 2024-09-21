@@ -9,10 +9,10 @@ Este projeto faz parte dos meus estudos sobre **Sistemas Operacionais**, com foc
 ## Sobre o Projeto
 o diretório possui dois arquivos de jogo, cada um com uma mecanica individual.
 
-arquivo QUIZ.PY:
+arquivo 01 [QUIZ.PY]:
 O programa simula um **jogo de perguntas e respostas** em que quatro processos, representando jogadores, competem entre si. Cada processo tenta acessar a memória compartilhada, e um semáforo controla a concorrência entre eles. O jogador que responder corretamente e com mais rapidez receberá mais pontos, cada processo tem apenas uma chance de responder cada questão.
 
-arquivo GAME.PY: 
+arquivo 02c[GAME.PY]: 
 O programa simula um **jogo de perguntas e respostas** em que quatro processos, representando jogadores, competem entre si. Cada processo tenta acessar a memória compartilhada, e um semáforo controla a concorrência entre eles. somente o jogador que responder corretamente primeiro receberá o ponto daquela questão, os processos competem para responder até que um acerte e todos passem para a proxima pergunta.
 
 - **Processos concorrentes**: cada jogador é um processo.
@@ -39,7 +39,7 @@ Todos os dados do jogo são exibidos diretamente no terminal.
 5. Execute o jogo com o comando:
    ```bash
    python quiz.py #caso queira rodar o arquivo 01 descrito acima
-   python quiz.py #caso queira rodar o arquivo 02 descrito acima
+   python game.py #caso queira rodar o arquivo 02 descrito acima
    ```
 
 ---
