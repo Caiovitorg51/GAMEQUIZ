@@ -1,5 +1,3 @@
-Aqui está uma versão mais atraente para o seu README:
-
 ---
 
 # simulação do Jogo de Perguntas com Processos Concorrentes
@@ -43,5 +41,3 @@ Todos os dados do jogo são exibidos diretamente no terminal.
    ```
 
 ---
-
-Dessa forma, seu README fica mais organizado e visualmente agradável.
